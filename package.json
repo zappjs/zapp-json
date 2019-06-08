@@ -1,6 +1,6 @@
 {
   "name": "@zappjs/json",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/index.js",
   "devDependencies": {
     "@zappjs/core": "^2.0.0-alpha",
