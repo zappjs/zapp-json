@@ -3,8 +3,8 @@
   "version": "0.1.1",
   "main": "dist/index.js",
   "devDependencies": {
-    "@zappjs/core": "^2.0.0-alpha",
-    "typescript": "^3.2.1"
+    "@zappjs/core": "^2.0.0-alpha.1",
+    "typescript": "^3.5.2"
   },
   "scripts": {
     "build": "tsc"

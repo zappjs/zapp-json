@@ -1,5 +1,5 @@
-import { Engine } from '@zappjs/core';
+import { IEngine } from '@zappjs/core';
 
-export const JsonEngine: Engine = (spec) => {
+export const JsonEngine: IEngine = (spec) => {
   return JSON.stringify(spec, null, '  ');
 }
